@@ -35,11 +35,10 @@
 </ol>
 
 <h2>Demonstração</h2>
-<p>Aqui está um vídeo demonstrando o jogo em funcionamento:</p>
-<video width="640" height="480" controls>
-  <source src="./src/demo/game recording.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
+<p>Aqui está um gif demonstrando o jogo em funcionamento:</p>
+<p align="center">
+  <img src="./src/demo/game recording.gif" alt="Demonstração do Jogo" style="width:1280px;height:720px;">
+</p>
 
 <h2>Estrutura do Projeto</h2>
 <pre><code>
@@ -51,7 +50,7 @@ jogo-da-memoria/
 │   │   ├── ponto.m4a
 │   │   └── trilhasonora.m4a
 │   ├── demo/
-│   │   └── game recording.mp4
+│   │   └── game recording.gif
 │   ├── fontes/
 │   │   ├── tittlefont.ttf
 │   │   └── typppfont.ttf
@@ -65,4 +64,3 @@ jogo-da-memoria/
 ├── index.html
 ├── README.md
 </code></pre>
-
