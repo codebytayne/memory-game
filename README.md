@@ -6,7 +6,7 @@ Este é um projeto de um Jogo da Memória desenvolvido em HTML, CSS e JavaScript
 
 ## Demonstração 
 
-![Texto alternativo](src/demo/game_recording.gif)
+![Texto alternativo](src/demo/gamerecording.gif)
 
 
 ## Como Jogar
