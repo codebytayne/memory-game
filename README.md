@@ -11,7 +11,7 @@
 
 ## 🎯 Demonstração 
 
-![Texto alternativo](src/demo/gamerecording.gif)
+![Texto alternativo](src/demo/gamerecording.gif/)
 
 
 ## 🕹️ Como Jogar
